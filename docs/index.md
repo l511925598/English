@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "English"
+  name: "English check is change!"
   text: "This project is used to help me learn English"
   tagline: My great project tagline
   actions:
